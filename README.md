@@ -1,5 +1,5 @@
 # CSS Animetions
-気まぐれにCSS Animationsで遊ぶためリポジトリ
+気まぐれにCSS Animationsで遊ぶためのリポジトリ
 
 基本的に汎用性やら拡張性やら実用性は、難易度や気分によって変動する。
 
